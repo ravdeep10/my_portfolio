@@ -1,0 +1,27 @@
+form {
+  max-width: 500px;
+    margin-top: 2rem;
+  margin: 0 auto;
+}
+
+input, textarea {
+  width: 100%;
+  padding: 0.75rem;
+  margin-bottom: 1rem;
+  background: var(--bg-secondary);
+  border: 1px solid var(--border);
+  color: var(--text-primary);
+  border-radius: var(--radius);
+}
+
+button {
+  background: var(--accent);
+  border: none;
+  padding: 0.75rem 1.5rem;
+  color: #fff;
+  border-radius: var(--radius);
+  cursor: pointer;
+  margin-top: 0.5rem;
+}
+
+

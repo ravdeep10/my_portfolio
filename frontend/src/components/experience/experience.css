@@ -1,0 +1,39 @@
+.experience {
+  margin-top: 4rem;
+}
+
+.experience-item {
+  padding: 2rem 0;
+  border-top: 1px solid var(--border);
+}
+
+.experience-item:first-of-type {
+  border-top: none;
+}
+
+.experience-title {
+  margin-bottom: 0.25rem;
+}
+
+.experience-date {
+  color: var(--text-muted);
+  font-size: 0.9rem;
+  margin-bottom: 1.5rem;
+}
+
+.experience-block {
+  margin-bottom: 1.25rem;
+}
+
+.experience-block h4 {
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--text-muted);
+  margin-bottom: 0.5rem;
+}
+
+.experience-block p {
+  color: var(--text-secondary);
+  margin-bottom: 0.4rem;
+}
