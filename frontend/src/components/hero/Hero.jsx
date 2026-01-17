@@ -2,10 +2,10 @@ import './hero.css'
 const Hero = () => {
   return (
     <section className="hero">
-      <h1>MERN Stack Full-Stack Developer</h1>
+      <h1>MEAN Stack Full-Stack Developer</h1>
       <p>
-        I build scalable, production-ready web applications using React,
-        Node.js, Express, and MongoDB.
+        I build scalable, production-ready web applications using Angular/React,
+        Node.js, Express, and MongoDB .
       </p>
     </section>
   );
